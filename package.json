@@ -1,0 +1,27 @@
+{
+  "name": "5911",
+  "version": "1.0.0",
+  "description": "A discord radio bot which play sidhu moose wala songs only ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishdevtech/5911.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "5911",
+    "sidhu",
+    "moose",
+    "wala"
+  ],
+  "author": "anishdevtech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishdevtech/5911/issues"
+  },
+  "homepage": "https://github.com/anishdevtech/5911#readme"
+}
